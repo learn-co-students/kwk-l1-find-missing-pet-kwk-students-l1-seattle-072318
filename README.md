@@ -56,8 +56,6 @@ BUT WOW that's a lot of steps. Programming is all about making things simple, so
 mv cats/indoor/back-alley/painting-elephants.jpg elephants/painters
 ```
 
-For this, we're using `relative paths`. We're inside of the "lab root" directory, and we're not going to use `cd` to move ourselves anywhere.Because `painting-elephants.jpg` doesn't exist inside the "lab root" directory, we have to tell the computer follow path to go to find that image, which is through the `cats` directory, and then `indoor` and then finally `back-alley`.
-
-Next, we have to tell the computer where to move the image. Because we're inside lab root and so is the `elephants` directory, we can just go straight there, and then into `painters`.
+For this, we're using `relative paths`. We're inside of the "lab root" directory, and we're not going to use `cd` to move ourselves anywhere.Because `painting-elephants.jpg` doesn't exist inside the "lab root" directory, we have to tell the computer follow path to go to find that image, which is through the `cats` directory, and then `indoor` ide lab root and so is the `elephants` directory, we can just go straight there, and then into `painters`.
 
 <p data-visibility='hidden'>KWK-L1 Find the Missing Pet</p>
